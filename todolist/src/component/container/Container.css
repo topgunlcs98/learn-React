@@ -1,0 +1,65 @@
+.out_box{
+    width:400px;
+    background-color: lightgrey;
+    margin:50px auto;
+    border:1px solid black;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+  .addbox{
+      width:300px;
+      margin:0 auto;
+      background-color: whitesmoke;
+      height:100px;
+      border-radius: 10px;
+  }
+  .addbox h3{
+      padding:15px 0 0 15px;
+      color:#1C86EE;
+  }
+  .taskbox{
+      background-color: whitesmoke;
+      width:300px;
+      margin:0 auto;
+      border-radius: 10px;
+      min-height: 100px;
+      padding-bottom: 2px;
+  }
+  .taskbox h3{
+      padding:15px 0 0 15px;
+      color:#1C86EE;
+  }
+  footer{
+      text-align: center;
+      color:white;
+      background-color: black;
+      padding:3px;
+  }
+  header{
+      background-color:black;
+      color:white;
+      margin-top: 0;
+      padding:5px;
+  }
+  header{
+      font-size:xx-large;
+      text-align: center
+  }
+  span{
+      color:red;
+  }
+  div{
+      margin-left:10px;
+  }
+  p{
+      text-align: center;
+      color: red;
+      font-size: 1.2em;
+      font-weight: bold;
+  }
+  #counter{
+      padding-left:50px;
+      margin-top:10px;
+      margin-bottom: 10px;
+  }
+  

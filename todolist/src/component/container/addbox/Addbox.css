@@ -1,0 +1,18 @@
+input{
+    width:200px;
+    padding-left: 2px;
+    height:30px;
+    border-radius: 3px;
+    border:none;
+    background-color: lightgrey;
+
+}
+button.addbutton{
+    color:white;
+    height:25px;
+    border:none;
+    border-radius: 5px;
+    margin-left: 10px;
+    background-color: 	#1C86EE;
+    font-weight:bolder;
+}
