@@ -1,4 +1,5 @@
-      .bash_history
+.deploy_git/     
+ .bash_history
         .gitconfig
         .viminfo
         AppData/
