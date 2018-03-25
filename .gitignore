@@ -1,68 +1,67 @@
-        .WebStorm2017.2/
-        .bash_history
-        .config/
-        .gitconfig
-        .viminfo
-        .yarnrc
-        AppData/
-        Contacts/
-        "Desktop/360\345\256\211\345\205\250\345\215\253\345\243\253.lnk"
-        "Desktop/360\350\275\257\344\273\266\347\256\241\345\256\266.lnk"
-        Desktop/DESKTOP-4L1V1HR/
-        Desktop/GitHub Desktop.lnk
-        Desktop/Lantern.lnk
-        Desktop/Visual Studio Code.lnk
-        Desktop/desktop.ini
-        Desktop/font-awesome-4.7.0/
-        Desktop/img/
-        Desktop/jquery-3.1.1/
-        Desktop/react-and-redux-master/
-        Desktop/todolist/README.md
-        Desktop/todolist/node_modules/
-        Desktop/todolist/package.json
-        Desktop/todolist/public/
-        Desktop/todolist/src/
-        Desktop/todolist/yarn.lock
-        Desktop/ustsp-pc/
-        "Desktop/\345\210\230\346\230\214\346\276\215/"
-        "Desktop/\345\212\236\345\205\254/"
-        "Desktop/\345\250\261\344\271\220/"
-        "Desktop/\345\260\217\347\253\231\346\211\230\347\246\217.lnk"
-        "Desktop/\345\267\245\345\205\267/"
-        "Desktop/\347\273\203\344\271\240\346\225\260\346\215\256/"
-        Documents/
-        Downloads/
-        Favorites/
-        IdeaProjects/
-        IntelGraphicsProfiles/
-        Links/
-        MicrosoftEdgeBackups/
-        Music/
-        NTUSER.DAT
-        NTUSER.DAT{b6436797-0e12-11e8-8742-800b0f1922ca}.TM.blf
-        NTUSER.DAT{b6436797-0e12-11e8-8742-800b0f1922ca}.TMContainer00000000000000000001.regtrans-ms
-        NTUSER.DAT{b6436797-0e12-11e8-8742-800b0f1922ca}.TMContainer00000000000000000002.regtrans-ms
-        OneDrive/
-        Pictures/
-        PycharmProjects/
-        PythonShootGame/
-        README.md
-        Saved Games/
-        Searches/
-        Videos/
-        WebstormProjects/
-        css-modules-demos/
-        dwhelper/
-        first_react_app/
-        hj/
-        images/
-        learngit/
-        myfirstpjt/
-        node_modules/
-        ntuser.dat.LOG1
-        ntuser.dat.LOG2
-        ntuser.ini
-        tutorial/
-        typings/
-        workspace/
-        "\346\225\260\346\215\256\347\273\223\346\236\204/"
+.WebStorm2017.2/
+.config/
+.gitconfig
+.viminfo
+.yarnrc
+AppData/
+Contacts/
+"Desktop/360\345\256\211\345\205\250\345\215\253\345\243\253.lnk"
+"Desktop/360\350\275\257\344\273\266\347\256\241\345\256\266.lnk"
+Desktop/DESKTOP-4L1V1HR/
+Desktop/GitHub Desktop.lnk
+Desktop/Lantern.lnk
+Desktop/Visual Studio Code.lnk
+Desktop/desktop.ini
+Desktop/font-awesome-4.7.0/
+Desktop/img/
+Desktop/jquery-3.1.1/
+Desktop/react-and-redux-master/
+Desktop/todolist/README.md
+Desktop/todolist/node_modules/
+Desktop/todolist/package.json
+Desktop/todolist/public/
+Desktop/todolist/src/
+Desktop/todolist/yarn.lock
+Desktop/ustsp-pc/
+"Desktop/\345\210\230\346\230\214\346\276\215/"
+"Desktop/\345\212\236\345\205\254/"
+"Desktop/\345\250\261\344\271\220/"
+"Desktop/\345\260\217\347\253\231\346\211\230\347\246\217.lnk"
+"Desktop/\345\267\245\345\205\267/"
+"Desktop/\347\273\203\344\271\240\346\225\260\346\215\256/"
+Documents/
+Downloads/
+Favorites/
+IdeaProjects/
+IntelGraphicsProfiles/
+Links/
+MicrosoftEdgeBackups/
+Music/
+NTUSER.DAT
+NTUSER.DAT{b6436797-0e12-11e8-8742-800b0f1922ca}.TM.blf
+NTUSER.DAT{b6436797-0e12-11e8-8742-800b0f1922ca}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{b6436797-0e12-11e8-8742-800b0f1922ca}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+PycharmProjects/
+PythonShootGame/
+README.md
+Saved Games/
+Searches/
+Videos/
+WebstormProjects/
+css-modules-demos/
+dwhelper/
+first_react_app/
+hj/
+images/
+learngit/
+myfirstpjt/
+node_modules/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+tutorial/
+typings/
+workspace/
+"\346\225\260\346\215\256\347\273\223\346\236\204/"
