@@ -85,4 +85,5 @@ workspace/
 "Desktop/\346\225\260\346\215\256\347\273\223\346\236\204/"
 Desktop/
 "\346\225\260\346\215\256\347\273\223\346\236\204/"
-header/
+header/package.json
+header/yarn.lock
