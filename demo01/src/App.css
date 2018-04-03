@@ -1,0 +1,83 @@
+.wrapper{
+width:100%;
+height:50px;
+background-color:white;
+}
+
+body{
+background-color: whitesmoke;
+}
+
+.tags{
+margin-left:8%;
+height:100%;
+width:25%;
+float:left;
+}
+
+.tagset{
+height:100%;
+width:100%;
+margin:0;
+padding:0;
+}
+.title{
+float:left;
+margin:0;
+padding:0;
+width:25%;
+font-size: 1.8em;
+font-weight: bold;
+text-align: left;
+color:rgb(0, 132, 255) ;
+list-style-type: none;
+height:100%;
+line-height:50px;
+}
+
+.link{
+list-style-type: none;
+width:25%;
+float: left; 
+height:100%;
+line-height: 50px;
+font-weight: 500;
+color:gray;
+}
+
+.link a:link{
+  color:gray;
+}
+.link a:hover{  
+color:blue;
+}
+
+.input{
+width:30%;
+height:100%;
+margin-top:8px;
+float:left;
+}
+
+.button{
+height:auto;
+width:auto;
+margin: 8px 0 ;
+float:left;
+padding-left:30px;
+}
+
+.iconset{
+margin-left:10%;
+width:10%;
+height:100%;
+float:left;
+}
+
+.icon{
+width:33%;
+height:100%;
+float:left;
+text-align: center;
+line-height: 50px
+}
